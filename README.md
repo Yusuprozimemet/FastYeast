@@ -1,4 +1,4 @@
-# GrowthCurve_SVR
+# I demonstrated the simplest way of analyzing the Growth Curve of yeast using Support Vector Regression (SVR). 
 In SVR, the optimization problem is formulated as follows:
 
 Minimize: (1/2) * ||w||^2 + C * Σ(ξ_i + ξ_i^*)
