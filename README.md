@@ -1,4 +1,4 @@
-#how to use this?
+# how to use this?
 ### Setting Up Environment for Growth Rate Analysis
 
 1. **Create a Project Directory**:
