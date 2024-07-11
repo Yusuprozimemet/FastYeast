@@ -1,5 +1,6 @@
-# How to Use FastYeast?
 
+# The smallest bar plot indicates the fastest yeast.
+## How to Use FastYeast?
 ### Setting Up Environment for Yeast Growth Rate Analysis
 
 1. **Create a Project Directory**:
@@ -57,7 +58,7 @@
      ```
 
 8. **View and Interpret Results**:
-   - The script will generate plots showing yeast growth curves and SVR analysis results based on your data.
+   - The script will generate plots showing yeast growth curves and SVR analysis results based on your data. the smallest  
    - Use the plots and printed coefficients to interpret growth rates and analyze your data.
 
 By following these steps, you create a well-organized environment for analyzing yeast growth rates with FastYeast, ensuring that dependencies are managed within the project folder. This approach enhances reproducibility and makes it easier to collaborate or share your project with others.
